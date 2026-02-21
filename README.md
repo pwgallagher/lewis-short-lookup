@@ -7,6 +7,8 @@ The app runs entirely on your own computer — no internet connection required
 after installation, no data sent anywhere, no accounts. You open it in any
 web browser at `http://localhost:5050`.
 
+![Lewis & Short lookup app — entry for verbum](docs/screenshot.png)
+
 ---
 
 ## Features
