@@ -1,0 +1,22 @@
+# Generated word-index cache — rebuilt automatically on first run
+lewis-short-wordindex.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments (if anyone uses one)
+venv/
+.venv/
+env/
+
+# Editor files
+.vscode/
+*.swp
+*~
